@@ -1,0 +1,1 @@
+from humancursor_botasaurus.web_cursor import WebCursor 
