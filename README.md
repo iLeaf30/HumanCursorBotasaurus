@@ -124,4 +124,12 @@ driver.close()
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Donate
+
+If you would like to support this project, please consider buying me a coffee:
+
+[Buy Me A Coffee](https://buymeacoffee.com/ileaf)
+
+<a href="https://buymeacoffee.com/ileaf"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=&amp;slug=ileaf&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Poppins&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy Me A Coffee" style="height: 45px;"></a> 
